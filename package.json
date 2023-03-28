@@ -1,0 +1,14 @@
+{
+  "name": "optimism-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "alchemy-sdk": "^2.6.2",
+    "dotenv": "^16.0.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
